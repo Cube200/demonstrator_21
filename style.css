@@ -9,7 +9,12 @@ body {
   color: #000;
   width: 100% !important;
 }
-
+td, th{
+  padding: 0px;
+}
+table {
+  padding: 0px;
+}
 html {
     width: 100% !important;
 }
